@@ -1,0 +1,3 @@
+baseURL = 'https://supertokens-rs.jmpeax.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
